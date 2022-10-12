@@ -2,7 +2,7 @@
 - 👀 I’m interested in medical imaging instrumentation and machine learning in image processing
 - 🌱 I’m currently learning deep learning platforms
 - 💞️ I’m looking to collaborate on opening medical imaging data
-- 📫 How to reach me: email
+- 📫 How to reach me: riku.klen@utu.fi
 
 <!---
 rklen/rklen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
