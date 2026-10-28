@@ -1,1 +1,1 @@
-This GitHub page is for IntoImaging research group (https://sites.utu.fi/intoimaging/). Here we have collected codes related to our research. We typically have separate repository for each scientific publication and our main programming language is Python.
+This GitHub page is for IntoImaging research group (https://sites.utu.fi/intoimaging/). Here we have collected codes related to our research. We typically have a separate repository for each scientific publication and our main programming language is Python.
